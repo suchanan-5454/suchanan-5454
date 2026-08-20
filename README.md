@@ -1,5 +1,5 @@
-#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suchanan Ninsiri   
-###College of Computing Student, KKU⁠.  
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suchanan Ninsiri   
+### College of Computing Student, KKU⁠.  
 I'm a Computer Science student at Khon Kaen University, passionate about software development, learning new technologies, and building cool projects!  
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [suchanan.n@kkumail.com](mailto:suchanan.n@kkumail.com)
